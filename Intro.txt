@@ -1,0 +1,23 @@
+
+// En Español:
+----------> PRÓLOGO
+*Los profesionales responsables dedican parte de su tiempo a planificar un proyecto antes de comenzarlo.
+*Crear CÓDIGO LEGIBLE es tan importante como crear CÓDIGO EJECUTABLE.
+*Por un lado, la práctica en los detalles otorga dominio a los profesionales y aumenta su confianza para la práctica a mayor escala. Por
+otra parte, el más mínimo fallo de construcción, una puerta que no cierra bien o un baldosín mal colocado, acaba con el encanto del
+todo. De eso se trata el código limpio.
+*Crear código legible es tan importante como crear código ejecutable.
+*En SCRUM se recomienda que la refactorización sea parte del concepto terminado. Ni la arquitectura, ni el código limpio insisten en la 
+perfección, sino en la honestidad y en hacerlo lo mejor posible.
+
+
+// In English:
+----------> PREFACE
+*Responsible professionals devote part of their time to planning a project before starting it.
+*Writing READABLE CODE is just as important as writing EXECUTABLE CODE.
+*On one hand, practicing the small details gives professionals mastery and increases their confidence when working on a larger scale
+efforts. On the other hand, even the slightest construction defect, a door that doesn't close properly or a tile set slightly off can ruin
+the appeal of the whole. That's what clean code is about.
+*Writing readable code is just as important as writing executable code.
+*In SCRUM, refactoring is recommended as part of the definition of done. Neither architecture nor clean code
+demands perfection, they emphasize honesty and doing the best work possible.
